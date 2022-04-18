@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Screen-Shot-2018-02-20-at-4.17",
+    "texture": "2f11dfd4-a6de-4302-821d-8f3d0d46308a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      492,
+      436
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      492,
+      436
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

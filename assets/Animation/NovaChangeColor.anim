@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "NovaChangeColor",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b76d16f1-ed7a-4472-8cfe-9adaf6f2f8a0"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "de56e861-7216-4fa9-85c4-170345311568"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9bb806ee-c5af-4c2d-b4f1-7ae1c4e93292"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "698bd7e1-44b4-41fb-92e9-155c63182b38"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "76717dd0-136b-441e-9291-535229fe4960"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "16f33c6a-3211-40a9-a824-3a6acdd46215"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

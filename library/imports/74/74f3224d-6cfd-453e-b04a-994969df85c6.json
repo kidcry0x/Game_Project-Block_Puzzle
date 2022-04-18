@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PauseIcon",
+    "texture": "d1e5150a-67b3-4922-bd62-2a43ec095a3b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      246
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MuteIcon",
+    "texture": "df470d6e-0ac9-416c-88fd-e6a8e1d6f680",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      802,
+      630
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      802,
+      630
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

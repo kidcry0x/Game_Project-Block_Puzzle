@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "88Board",
+    "texture": "960252ea-b5ae-4431-bafa-b21f50b903a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      946,
+      950
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      946,
+      950
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

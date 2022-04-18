@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "124bab0d-6036-487e-8e41-340fa95595b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 2160,
+  "platformSettings": {},
+  "subMetas": {
+    "1080x2160-Background-HD-Wallpaper-386": {
+      "ver": "1.0.4",
+      "uuid": "dde66ac3-bcf0-45ba-a39e-b95f18d05718",
+      "rawTextureUuid": "124bab0d-6036-487e-8e41-340fa95595b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1080,
+      "height": 2160,
+      "rawWidth": 1080,
+      "rawHeight": 2160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

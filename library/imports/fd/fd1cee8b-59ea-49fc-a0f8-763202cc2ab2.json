@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UnmuteIcon",
+    "texture": "a2ce63b2-ed20-4f4f-8c76-c639f5ee1046",
+    "atlas": "",
+    "rect": [
+      16,
+      32,
+      240,
+      192
+    ],
+    "offset": [
+      8,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

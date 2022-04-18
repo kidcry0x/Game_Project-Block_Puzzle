@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hinh-nen-background-halloween-full-hd-14-675x1200",
+    "texture": "2d231ce3-827c-4602-9d1f-99ff10eea803",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      675,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      675,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

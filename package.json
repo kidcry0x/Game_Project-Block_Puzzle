@@ -1,0 +1,12 @@
+{
+  "name": "blockpuzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-fb": "cd build/fb-instant-games && openssl genrsa 2048 > key.pem && openssl req -x509 -days 1000 -new -key key.pem -out cert.pem && http-server --ssl -c-1 -p 8080 -a localhost"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "purple_light",
+    "texture": "8630e8c9-ed7b-433e-a1c2-0211019d1da4",
+    "atlas": "",
+    "rect": [
+      60,
+      60,
+      256,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      376,
+      376
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

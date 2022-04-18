@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1080x2160-Background-HD-Wallpaper-386",
+    "texture": "124bab0d-6036-487e-8e41-340fa95595b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1080,
+      2160
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1080,
+      2160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

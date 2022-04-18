@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9c6a8670-b371-42c8-8314-aa4168dbf0b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "pumpkin_halloween_light_117034_1920x1080": {
+      "ver": "1.0.4",
+      "uuid": "275fdbf5-ddb7-4a98-aceb-5f569371063b",
+      "rawTextureUuid": "9c6a8670-b371-42c8-8314-aa4168dbf0b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
